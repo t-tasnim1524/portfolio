@@ -1,5 +1,5 @@
 @echo off
-set "PATH=%LOCALAPPDATA%\MinGit\cmd;%PATH%"
+set "PATH=%LOCALAPPDATA%\MinGit\cmd;%LOCALAPPDATA%\MinGit\mingw64\bin;%LOCALAPPDATA%\MinGit\mingw64\libexec\git-core;%PATH%"
 cd /d "c:\portfolio website"
 echo ========================================================
 echo Pushing Tasnim Tanha Portfolio to GitHub...

@@ -1,0 +1,19 @@
+{
+  "name": "tasnim-tanha-creative-portfolio",
+  "version": "1.0.0",
+  "description": "Tasnim Tanha — Creative Web Developer & UI/UX Architect Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "creative-web-developer",
+    "frontend-engineer",
+    "ui-ux",
+    "tailwind",
+    "emailjs"
+  ],
+  "author": "Tasnim Tanha <yourmoon1524@gmail.com>",
+  "license": "MIT"
+}

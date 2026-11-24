@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.bak
+
+# Archive Files
+*.zip
+*.tar.gz
+*.rar
+
+# Dependencies & Build Tooling (if added in future)
+node_modules/
+.npm/
+
+# Vercel Deployment Artifacts
+.vercel/

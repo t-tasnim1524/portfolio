@@ -3,7 +3,7 @@ set "PATH=%LOCALAPPDATA%\MinGit\cmd;%LOCALAPPDATA%\MinGit\mingw64\bin;%LOCALAPPD
 cd /d "c:\portfolio website"
 echo ========================================================
 echo Pushing Tasnim Tanha Portfolio to GitHub...
-echo Repository: https://github.com/t-tasnim1524/My-Portfolio.git
+echo Repository: https://github.com/t-tasnim1524/portfolio.git
 echo ========================================================
 git push -u origin main
 echo.

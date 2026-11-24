@@ -26,7 +26,7 @@ This project is pre-configured and 100% optimized for **[Vercel](https://vercel.
 
 1. Go to your **[Vercel Dashboard](https://vercel.com/new)**.
 2. Click **"Add New..."** &rarr; **"Project"**.
-3. Import your GitHub repository: `https://github.com/t-tasnim1524/My-Portfolio`.
+3. Import your GitHub repository: `https://github.com/t-tasnim1524/portfolio`.
 4. In the Project Configuration:
    - **Framework Preset:** `Other` (Auto-detected as Static HTML)
    - **Root Directory:** `./`
@@ -44,10 +44,10 @@ To run the site locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/t-tasnim1524/My-Portfolio.git
+git clone https://github.com/t-tasnim1524/portfolio.git
 
 # Navigate into the project directory
-cd My-Portfolio
+cd portfolio
 
 # Serve locally using any static web server, for example:
 npx serve .
